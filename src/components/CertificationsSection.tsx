@@ -16,6 +16,7 @@ const certificateImages = [
   "https://res.cloudinary.com/doux3ospw/image/upload/v1777057381/cert11_rxx4xv.jpg",
   "https://res.cloudinary.com/doux3ospw/image/upload/v1777057381/cert8_dahpog.jpg",
   "https://res.cloudinary.com/doux3ospw/image/upload/v1777057381/cert9_t0yw9t.jpg",
+  "https://res.cloudinary.com/doux3ospw/image/upload/v1777058605/cert12_wgx1qy.jpg",
 ];
 
 export const certifications = [
