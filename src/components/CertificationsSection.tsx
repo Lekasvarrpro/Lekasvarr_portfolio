@@ -17,12 +17,17 @@ const certificateImages = [
   "https://res.cloudinary.com/doux3ospw/image/upload/v1777057381/cert8_dahpog.jpg",
   "https://res.cloudinary.com/doux3ospw/image/upload/v1777057381/cert9_t0yw9t.jpg",
   "https://res.cloudinary.com/doux3ospw/image/upload/v1777058605/cert12_wgx1qy.jpg",
+  "https://res.cloudinary.com/doux3ospw/image/upload/v1777058605/Quantitative_Apitude_yknb1g.jpg",
 ];
 
 export const certifications = [
   {
     title: "Micro-Certification - Welcome to ServiceNow",
     issuer: "ServiceNow",
+  },
+  {
+    title: "Quantitative Aptitude Certification",
+    issuer: "PrepInsta",
   },
   {
     title: "Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate",
