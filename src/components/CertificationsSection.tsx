@@ -18,6 +18,8 @@ const certificateImages = [
   "https://res.cloudinary.com/doux3ospw/image/upload/v1777057381/cert9_t0yw9t.jpg",
   "https://res.cloudinary.com/doux3ospw/image/upload/v1777058605/cert12_wgx1qy.jpg",
   "https://res.cloudinary.com/doux3ospw/image/upload/v1777058605/Quantitative_Apitude_yknb1g.jpg",
+  "https://res.cloudinary.com/doux3ospw/image/upload/v1777058605/forage_jpmorgan_xzi3ef.jpg",
+  "https://res.cloudinary.com/doux3ospw/image/upload/v1777058605/deloitte_forage_dstdap.jpg",
 ];
 
 export const certifications = [
@@ -48,6 +50,14 @@ export const certifications = [
   {
     title: "Introduction to Artificial Intelligence",
     issuer: "Infosys Springboard",
+  },
+  {
+    title: "Data Analytics Job Simulation",
+    issuer: "Forage",
+  },
+  {
+    title: "Software Engineering Job Simulation",
+    issuer: "Forage",
   },
   {
     title: "Data Science",
