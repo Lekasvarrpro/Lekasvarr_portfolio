@@ -16,6 +16,9 @@ const internshipCertificates: Record<string, string> = {
 
   "Genz EducateWing":
     "https://res.cloudinary.com/doux3ospw/image/upload/v1777058854/in4_o10yr0.jpg",
+
+  ServiceNow":
+    "https://res.cloudinary.com/doux3ospw/image/upload/v1777058856/SeviceNow_certificate_zlqugj.jpg",
 };
 
 /* 🔥 NORMALIZER (FIXES "NOT SHOWING CERTIFICATE ISSUE") */
@@ -42,6 +45,23 @@ const extraExperience = [
       "Improved analytical thinking skills",
     ],
   },
+  {
+  role: "ServiceNow Virtual Intern",
+  company: "ServiceNow",
+  period: "2026",
+  location: "Virtual",
+  skills: [
+    "ServiceNow",
+    "ITSM",
+    "Workflow Automation",
+    "Platform Administration",
+  ],
+  description: [
+    "Completed ServiceNow Virtual Internship program.",
+    "Learned IT Service Management (ITSM) concepts.",
+    "Worked with workflows, incident management, and platform fundamentals.",
+  ],
+},
   {
     role: "Data Science Intern",
     company: "Kaashiv Info Tech",
