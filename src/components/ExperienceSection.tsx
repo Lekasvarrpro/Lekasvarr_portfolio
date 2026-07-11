@@ -3,7 +3,7 @@ import { Briefcase, ShieldCheck, X } from "lucide-react";
 import { experience } from "@/data/experience";
 import { useState } from "react";
 
-/* 🔥 INTERNSHIP CERTIFICATES */
+/*  INTERNSHIP CERTIFICATES */
 const internshipCertificates: Record<string, string> = {
   "Infomatronics Project Services":
     "https://res.cloudinary.com/doux3ospw/image/upload/v1777058856/in1_noe42f.jpg",
@@ -18,10 +18,10 @@ const internshipCertificates: Record<string, string> = {
     "https://res.cloudinary.com/doux3ospw/image/upload/v1777058854/in4_o10yr0.jpg",
 
   ServiceNow":
-    "https://res.cloudinary.com/doux3ospw/image/upload/v1777058856/SeviceNow_certificate_zlqugj.jpg",
+    "https://res.cloudinary.com/doux3ospw/image/upload/v1777058856/SeviceNow_certificate_t5cztx.jpg",
 };
 
-/* 🔥 NORMALIZER (FIXES "NOT SHOWING CERTIFICATE ISSUE") */
+/*  NORMALIZER (FIXES "NOT SHOWING CERTIFICATE ISSUE") */
 const normalize = (s: string) =>
   s.toLowerCase().replace(/\s+/g, " ").trim();
 
