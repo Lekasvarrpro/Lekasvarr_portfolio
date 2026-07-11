@@ -17,7 +17,7 @@ const internshipCertificates: Record<string, string> = {
   "Genz EducateWing":
     "https://res.cloudinary.com/doux3ospw/image/upload/v1777058854/in4_o10yr0.jpg",
 
-  ServiceNow":
+  "ServiceNow":
     "https://res.cloudinary.com/doux3ospw/image/upload/v1777058856/SeviceNow_certificate_t5cztx.jpg",
 };
 
