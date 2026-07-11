@@ -46,23 +46,6 @@ const extraExperience = [
     ],
   },
   {
-  role: "ServiceNow Virtual Intern",
-  company: "ServiceNow",
-  period: "2026",
-  location: "Virtual",
-  skills: [
-    "ServiceNow",
-    "ITSM",
-    "Workflow Automation",
-    "Platform Administration",
-  ],
-  description: [
-    "Completed ServiceNow Virtual Internship program.",
-    "Learned IT Service Management (ITSM) concepts.",
-    "Worked with workflows, incident management, and platform fundamentals.",
-  ],
-},
-  {
     role: "Data Science Intern",
     company: "Kaashiv Info Tech",
     period: "Dec 2024",
@@ -86,6 +69,23 @@ const extraExperience = [
       "Worked in collaborative dev environment",
     ],
   },
+  {
+  role: "ServiceNow Virtual Intern",
+  company: "ServiceNow",
+  period: "2026",
+  location: "Virtual",
+  skills: [
+    "ServiceNow",
+    "ITSM",
+    "Workflow Automation",
+    "Platform Administration",
+  ],
+  description: [
+    "Completed ServiceNow Virtual Internship program.",
+    "Learned IT Service Management (ITSM) concepts.",
+    "Worked with workflows, incident management, and platform fundamentals.",
+  ],
+ },
 ];
 
 const ExperienceSection = () => {
