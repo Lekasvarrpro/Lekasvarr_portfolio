@@ -20,6 +20,8 @@ const certificateImages = [
   "https://res.cloudinary.com/doux3ospw/image/upload/v1777058605/Quantitative_Apitude_yknb1g.jpg",
   "https://res.cloudinary.com/doux3ospw/image/upload/v1777058605/forage_jpmorgan_xzi3ef.jpg",
   "https://res.cloudinary.com/doux3ospw/image/upload/v1777058605/deloitte_forage_dstdap.jpg",
+  "https://res.cloudinary.com/doux3ospw/image/upload/v1794848239/cert13_p1wudr.jpg",
+  "https://res.cloudinary.com/doux3ospw/image/upload/v1794848238/cert14_lmt7nc.jpg",
 ];
 
 export const certifications = [
